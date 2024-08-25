@@ -1,4 +1,5 @@
 Titanic Exploratory Data Analysis (EDA)
+
 This project focuses on performing data cleaning and exploratory data analysis (EDA) on the Titanic dataset. The Titanic dataset, widely used in data science, offers insights into passenger demographics and survival rates from the tragic Titanic voyage.
 
 Data Understanding
